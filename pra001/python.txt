@@ -1,0 +1,24 @@
+python : Feb-20 1991
+usage:
+Automation
+schedulers
+data preprocessing
+application development
+Iot
+problem solving
+Types of programming:
+1.procedure oriented programming
+2.object oriented programming
+3.Functional Programming
+Python & Java & c++ is used to do that above 3 Types
+c is procedure oriented programming
+python compilation:
+i/p(High level code)-compiler-intermediate code(byte code)-pvm(python virtual machine)-o/p(low level code)
+                    --------------------------------------   -----------------------------
+                        compile time                             run time
+
+
+python is platform indepentant
+
+platform-os+processor
+PEP-Python Enchancement Proposal =  Suggest new features, improvements, or changes to Python.
